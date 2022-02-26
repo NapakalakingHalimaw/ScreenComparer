@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenComparer", "ScreenComparer\ScreenComparer.csproj", "{088F6936-F1B4-4806-9C04-EB3E31EA72BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088F6936-F1B4-4806-9C04-EB3E31EA72BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088F6936-F1B4-4806-9C04-EB3E31EA72BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088F6936-F1B4-4806-9C04-EB3E31EA72BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088F6936-F1B4-4806-9C04-EB3E31EA72BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4437632-7651-4117-8807-58C6E5DA32CD}
+	EndGlobalSection
+EndGlobal
